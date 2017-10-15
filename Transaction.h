@@ -8,4 +8,5 @@ class Transaction
     public:
         Transaction(int amt, std::string kind);
         std::string Report();
+        void DoubleAmount() { amount *=2; }
 };
