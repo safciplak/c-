@@ -21,31 +21,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Person.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Person.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="127" selection-start-line="2" selection-start-column="127" selection-end-line="2" selection-end-column="127" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Person.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Person.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="165">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassessAndObject.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Person.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassessAndObject.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassessAndObject.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="60">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -74,9 +74,9 @@
         <option value="$PROJECT_DIR$/SimpleClasses.cpp" />
         <option value="$PROJECT_DIR$/Transaction.h" />
         <option value="$PROJECT_DIR$/Parameters.cpp" />
-        <option value="$PROJECT_DIR$/Person.cpp" />
-        <option value="$PROJECT_DIR$/Person.h" />
         <option value="$PROJECT_DIR$/ClassessAndObject.cpp" />
+        <option value="$PROJECT_DIR$/Person.h" />
+        <option value="$PROJECT_DIR$/Person.cpp" />
       </list>
     </option>
   </component>
@@ -147,9 +147,9 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="Sim&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/SimpleClasses.cpp&#10;sim&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/SimpleClasses.cpp&#10;ac&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Account.cpp&#10;acc&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Account.h&#10;tra&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Transaction.h" />
+    <property name="SearchEverywhereHistoryKey" value="pers&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Person.cpp&#10;Sim&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/SimpleClasses.cpp&#10;sim&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/SimpleClasses.cpp&#10;ac&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Account.cpp&#10;acc&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Account.h&#10;tra&#9;FILE&#9;file:///Users/anonymous/Desktop/cpp/Transaction.h" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -215,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507996111441</updated>
       <workItem from="1507996112772" duration="2327000" />
-      <workItem from="1508005551701" duration="15182000" />
+      <workItem from="1508005551701" duration="16484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17509000" />
+    <option name="totallyTimeSpent" value="18811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="642" y="0" width="638" height="800" extended-state="0" />
@@ -421,26 +421,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Person.cpp">
+    <entry file="file://$PROJECT_DIR$/ClassessAndObject.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="127" selection-start-line="2" selection-start-column="127" selection-end-line="2" selection-end-column="127" />
+        <state relative-caret-position="60">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Person.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="165">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassessAndObject.cpp">
+    <entry file="file://$PROJECT_DIR$/Person.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
